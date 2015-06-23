@@ -1,0 +1,24 @@
+TEST FOR GitHub
+
+- create new Repository
+- add initial files
+- commit changes to the GitHub site
+- create new branch
+- edit something from the new branch
+- upload the changes to the GitHub site
+- create pull request to merge the branch to master
+- review the changes requested on the pull request
+- merge the changes to master
+- update or delete the dev branch
+
+
+
+
+
+
+
+
+
+
+
+
