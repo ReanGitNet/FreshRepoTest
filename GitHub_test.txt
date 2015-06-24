@@ -1,7 +1,9 @@
 TEST FOR GitHub
 
 - create new Repository
+  * Completed
 - add initial files
+  * Completed
 - commit changes to the GitHub site
 - create new branch
 - edit something from the new branch
